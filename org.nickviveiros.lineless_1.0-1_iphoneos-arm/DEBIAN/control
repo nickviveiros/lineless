@@ -1,11 +1,17 @@
 Package: org.nickviveiros.Practique
 Name: Practique
 Version: 1.0-1
-Description: Clean up that NC!
+Description: 
 Section: System
-Depends: firmware (>= 7.0), mobilesubstrate
+Depends: firmware (>= 5.0), mobilesubstrate
 Conflicts: 
 Replaces: 
 Priority: optional
 Architecture: iphoneos-arm
 Author: Nicholas Viveiros
+dev: 
+Homepage: 
+Depiction: 
+Maintainer: 
+Icon: 
+

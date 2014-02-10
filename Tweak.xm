@@ -1,4 +1,3 @@
-
 //
 // Tweak.xm
 //
@@ -14,7 +13,6 @@
 
 #import <UIKit/UIKit.h>
 #import <Declare.h>
-
 
 //----------------------Hide NCSeparators (TOP AND BOTTOM)----------------------//
 %hook SBNotificationCenterSeparatorView
@@ -32,5 +30,6 @@
     return FALSE;
 }
 %end
+
 
 

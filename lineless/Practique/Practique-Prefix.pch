@@ -1,7 +1,0 @@
-//
-// Prefix header for all source files of the 'Practique' target in the 'Practique' project
-//
-
-#ifdef __OBJC__
-    #import <Foundation/Foundation.h>
-#endif

@@ -1,0 +1,11 @@
+Package: org.nickviveiros.lineless
+Name: lineless
+Version: 1.0-1
+Description: Clean up that NC! Remove those irritating lines from NC and the lockscreen. Works best with NCObey's "Hide Tab Bar" option (I'll implement this in the future)
+Section: Tweaks
+Depends: firmware (>= 7.0), mobilesubstrate
+Conflicts: 
+Replaces: 
+Priority: optional
+Architecture: iphoneos-arm
+Author: Nicholas Viveiros
